@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<TargetFramework>netstandard2.0</TargetFramework>
+	<LangVersion>8.0</LangVersion>
+	<Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+	<PackageId>Lski.Encryption</PackageId>
+	<Version>1.0.0</Version>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Authors>Lee Cooper</Authors>
+	<Description>Simple extensions for encrypting/decrypting strings</Description>
+	<Copyright>Copyright 2020</Copyright>
+	<PackageIconUrl>https://www.gravatar.com/avatar/e28af3724cd70eb082bdb84063964ea1</PackageIconUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageTags>Encryption, Cryptography</PackageTags>
+  </PropertyGroup>
+
+</Project>
