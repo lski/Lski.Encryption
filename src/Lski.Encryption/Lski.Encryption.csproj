@@ -8,14 +8,14 @@
 
   <PropertyGroup>
 	<PackageId>Lski.Encryption</PackageId>
-	<Version>1.0.0</Version>
-	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Version>1.0.1</Version>
 	<Authors>Lee Cooper</Authors>
 	<Description>Simple extensions for encrypting/decrypting strings</Description>
 	<Copyright>Copyright 2020</Copyright>
 	<PackageIconUrl>https://www.gravatar.com/avatar/e28af3724cd70eb082bdb84063964ea1</PackageIconUrl>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageTags>Encryption, Cryptography</PackageTags>
+	<RepositoryUrl>https://github.com/lski/Lski.Encryption</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
